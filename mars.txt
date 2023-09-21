@@ -2,4 +2,7 @@ I think mars is pretty cold and dry.
 Mars has two moons. Will this be a problem?
 
 testing
-Mars has a year of X days.
+
+
+Mars has a year of 687 days.
+I am adding that mars is very cold and dry.

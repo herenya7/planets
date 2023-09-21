@@ -6,3 +6,6 @@ testing
 
 Mars has a year of 687 days.
 I am adding that mars is very cold and dry.
+
+Mean temperature is 6 deg C. 
+
